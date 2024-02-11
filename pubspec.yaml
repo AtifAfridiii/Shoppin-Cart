@@ -41,6 +41,12 @@ dependencies:
   badges: ^3.1.2
   shared_preferences: ^2.2.2
   sqflite: ^2.3.2
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon.jpg"  
 
 dev_dependencies:
   flutter_test:
